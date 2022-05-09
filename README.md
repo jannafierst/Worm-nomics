@@ -455,8 +455,20 @@ Hit 'i' for insertion and type the following (edit the locations with your line 
 
 	busco -c 4 -m genome -i [PATH_To_POLISHED_GENOME] -o busco_[LINE] --lineage_dataset nematoda_odb10 --augustus_species caenorhabditis
 
+### 4.3 Analyze retained heterozygosity with purge_haplotigs
 
-### 4.3 Decontamination
+	#!/bin/bash
+
+	# generate histogram
+	purge_haplotigs hist -b aligned.bam -g [genome].fasta -t 12
+
+	# view histogram to get low, medium, high values
+	purge_haplotigs cov -i aligned.bam.gencov -l 4 -m 17 -h 65 -o coverage_stats.csv -j 80 -s 80
+
+	#assign primary, haplotig, junk with -b aligned.bam to generate dotplots
+	purge_haplotigs purge -g [genome].fasta -c coverage_stats.csv -d -b aligned.bam
+
+### 4.4 Decontamination
 
 Blast
 vi blast.sh
@@ -479,10 +491,7 @@ Hit 'i' for insertion and type the following:
 
 	blastn  -task megablast -query [PATH_TO_POLISHED_GENOME] -db nt -outfmt '6 qseqid staxids' -culling_limit 5 -evalue 1e-25 -out [LINE].blast.out
 
-
-
-### 4.3.1 [SIDR]()
-
+### 4.4.1 [SIDR]()
 
 ## PART 5: Annotation
     
@@ -610,3 +619,18 @@ RagTag is very fast, below is a script that can align our fragmented assembly to
 
 	ragtag.py updategff braker.gff3 ./ragtag_output/ragtag.scaffold.agp > ragtag.{GENOME}.gff3
   
+### 5.7 Align genomes with ProgressiveCactus and extract mutations, bed files and reconstructed ancestral sequences
+
+	#!/bin/bash
+
+	export PATH=/[hal-release-V2.2/bin]:${PATH}
+	export PYTHONPATH=/[hal-release-V2.2]:${PYTHONPATH}
+	
+	sudo docker run -d -v $(pwd):/data --rm -it quay.io/comparative-genomics-toolkit/cactus:v2.0.4 cactus /data/jobStore /data/worms.txt /data/output.hal # -d puts 	it in the background
+
+	sudo docker run -d -v $(pwd):/data --rm -it quay.io/comparative-genomics-toolkit/cactus:v2.0.4 hal2maf /data/output.hal --refGenome [root_genome] 		/data/[root_genome].maf
+
+	halBranchMutations output.hal [species] --refFile [species].bed --parentFile [species]_parent.bed
+
+	hal2fasta output.hal [ancestor] --upper --outFaPath /path/to/[ancestor].fasta
+	
