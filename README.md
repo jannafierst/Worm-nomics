@@ -596,7 +596,7 @@ AGAT(https://github.com/NBISweden/AGAT#installation) is a tool for annotation ed
 	conda activate agatenv
 	agat_sp_statistics.pl --gff {file}.gff3
 	
-### 5.5 Functional annotation with Interproscan
+### 5.5 Functional annotation with Interproscan (https://interproscan-docs.readthedocs.io/en/latest/HowToRun.html)
 
 Generate interproscan annotations including GO terms and pathway information. Here is a sample command to do this:
 
@@ -618,7 +618,7 @@ RagTag is very fast, below is a script that can align our fragmented assembly to
 
 	ragtag.py updategff braker.gff3 ./ragtag_output/ragtag.scaffold.agp > ragtag.{GENOME}.gff3
   
-### 5.7 Align genomes with ProgressiveCactus and extract mutations, bed files and reconstructed ancestral sequences
+### 5.7 Align genomes with ProgressiveCactus and extract mutations, bed files and reconstructed ancestral sequences (https://github.com/glennhickey/progressiveCactus)
 
 	#!/bin/bash
 
@@ -633,13 +633,13 @@ RagTag is very fast, below is a script that can align our fragmented assembly to
 
 	hal2fasta output.hal [ancestor] --upper --outFaPath /path/to/[ancestor].fasta
 	
-### 5.8 Estimate orthogroups with OrthoMCL
+### 5.8 Estimate orthogroups with OrthoFinder
 
-Create a directory with species proteomes (longest isoforms only) and run orthoMCL
+Create a directory with species proteomes (longest isoforms only) and run OrthoFinder (https://github.com/davidemms/OrthoFinder)
 
 	orthofinder -f ./[directory]/
 	
-### 5.9 Estimate gene family birth and death rates with CAFE5
+### 5.9 Estimate gene family birth and death rates with CAFE5 (https://github.com/hahnlab/CAFE5)
 
 	#!/bin/bash
 
