@@ -634,3 +634,17 @@ RagTag is very fast, below is a script that can align our fragmented assembly to
 
 	hal2fasta output.hal [ancestor] --upper --outFaPath /path/to/[ancestor].fasta
 	
+### 5.8 Estimate orthogroups with OrthoMCL
+
+Create a directory with species proteomes (longest isoforms only) and run orthoMCL
+
+	orthofinder -f ./[directory]/
+	
+### 5.9 Estimate gene family birth and death rates with CAFE5
+
+	#!/bin/bash
+
+	/path/to/CAFE5/bin/cafe5 -i [ortho_mcl_output].txt -t [tree].txt -e # estimate error in genome assembly and annotation
+	
+	/path/to/CAFE5/bin/cafe5 -i [ortho_mcl_output].txt -t [tree].txt -k 3 -o k3 -eerror_model_02.txt # estimate with k=3
+	
