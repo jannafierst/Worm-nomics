@@ -518,7 +518,12 @@ Finally, RepeatMasker creates a masked version of our assembled genome sequence.
 
 ### 5.1.2 [EDTA](https://github.com/oushujun/EDTA)
 
+	#!/bin/bash
 
+	EDTA.pl \
+	--genome [genome.fasta] \
+	--cds [genome.cdna.fasta] \ # Obtained from BRAKER2 in step 5.2
+	--curatedlib [Rhabditida.repeatmasker] --overwrite 1 --sensitive 1 --anno 1 --evaluate 1 --threads 10
 
 ### 5.2 Protein-coding gene annotation with BRAKER2
 
