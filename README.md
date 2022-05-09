@@ -279,7 +279,6 @@ Submit your job
 ### 3.4 Assembly polishing
 
 ONT assemblies have small errors that can be addressed through iterative polishing with Illumina libraries.
-Copy illumina data from /jlf/CRE_UA/raw_reads/illumina/ if you haven't already
 
 	$ vi pilon.sh
 Hit 'i' for insertion and type the following (edit FORWARD, REVERSE, LINE NAME, and GENOME):
@@ -455,7 +454,7 @@ Hit 'i' for insertion and type the following (edit the locations with your line 
 
 	busco -c 4 -m genome -i [PATH_To_POLISHED_GENOME] -o busco_[LINE] --lineage_dataset nematoda_odb10 --augustus_species caenorhabditis
 
-### 4.3 Analyze retained heterozygosity with purge_haplotigs
+### 4.3 Analyze retained heterozygosity with purge_haplotigs (https://bitbucket.org/mroachawri/purge_haplotigs/src/master/)
 
 	#!/bin/bash
 
