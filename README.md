@@ -568,7 +568,6 @@ tblastn -db nt -query braker.protein.fasta \
 -num_threads 4 -evalue 0.01 -max_target_seqs 2 -out blast.out
 ```
 
-
 ### 5.4 Annotation statistics with AGAT
 
 AGAT(https://github.com/NBISweden/AGAT#installation) is a tool for annotation editing and evaluation. We will install via conda and use it to evaluate annotation statistics. AGAT creates conflicts with some other aspects of conda and we will install/activate it into its own environment to manage the conflicts.
@@ -583,8 +582,16 @@ AGAT(https://github.com/NBISweden/AGAT#installation) is a tool for annotation ed
 
 	conda activate agatenv
 	agat_sp_statistics.pl --gff {file}.gff3
+	
+### 5.5 Functional annotation with Interproscan
 
-### 5.5 Create pseudo-chromosomes with Ragtag
+Generate interproscan annotations including GO terms and pathway information. Here is a sample command to do this:
+
+	interproscan.sh -i 356.protein.fasta -f tsv -dp -goterms -pa
+
+Here, I am asking interproscan (interproscan.sh) to perform functional annotation on my proteome (356.protein.fasta) including gene ontology annotations (-goterms) and pathway information (-pa). I am asking for a tab-separated output file (-f tsv) and -dp is disable precalculated lookup service, we will calculated everything fresh for this genome.
+
+### 5.6 Create pseudo-chromosomes with Ragtag
 
 Caenorhabditis have highly conserved chromosome structure and we expect that large-scale rearrangements have not occurred between closely related strains. This is an assumption and it may not be true but we will operate under this for now. If we assume this we can use RagTag (https://github.com/malonge/RagTag) to scaffold our fragmented assembly based on a chromosome-scale assembly for a close relative, C. remanei PX506 (https://www.ncbi.nlm.nih.gov/genome/253?genome_assembly_id=771236).
 
