@@ -556,9 +556,9 @@ braker.pl \
 --genome=[assembly.masked] \
 --bam=Aligned.out.bam \
 --prot_seq=[protein.fasta] \
---prg=gth \
 --GENEMARK_PATH=[GENEMARK_dir] \
---softmasking
+--softmasking \
+--useexisting
 
 gtf2gff.pl < braker.gtf --gff3 --out=braker.gff3
 ```
