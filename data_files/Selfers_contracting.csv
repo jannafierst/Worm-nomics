@@ -1,0 +1,71 @@
+﻿FamilyID,Decreasing in selfers,Increasing in selfers,Decreasing in outcrossers,Increasing in outcrossers,pvalue,Significant at 0.05,PX506 IPR,C. elegans orthologs
+OG0000005,TRUE,FALSE,FALSE,FALSE,0,y,IPR000210 BTB/POZ domain; IPR011333 SKP1/BTB/POZ domain,btb-20 description:BTB (Broad/complex/Tramtrack/Bric a brac) domain protein  ;btb-19 description:BTB (Broad/complex/Tramtrack/Bric a brac) domain protein  ;btb-9 description:BTB (Broad/complex/Tramtrack/Bric a brac) domain protein  ;btb-7 description:BTB (Broad/complex/Tramtrack/Bric a brac) domain protein  ;btb-4 description:BTB (Broad/complex/Tramtrack/Bric a brac) domain protein  ;btb-4 description:BTB (Broad/complex/Tramtrack/Bric a brac) domain protein  ;btb-4 description:BTB (Broad/complex/Tramtrack/Bric a brac) domain protein  ;btb-4 description:BTB (Broad/complex/Tramtrack/Bric a brac) domain protein  ;btb-2 description:BTB (Broad/complex/Tramtrack/Bric a brac) domain protein  ;btb-5 description:BTB (Broad/complex/Tramtrack/Bric a brac) domain protein
+OG0000009,TRUE,FALSE,FALSE,FALSE,0,y,IPR021942 Protein of unknown function DUF3557,N/A
+OG0000025,TRUE,FALSE,FALSE,FALSE,0,y,IPR023211 DNA polymerase palm domain; IPR012337 Ribonuclease H-like domain; IPR004868 DNA-directed DNA polymerase family B mitochondria/virus,N/A
+OG0000016,TRUE,FALSE,FALSE,FALSE,0,y,IPR001841 Zinc finger RING-type; IPR013083 Zinc finger RING/FYVE/PHD-type,C16A11.5 description:LOW QUALITY PROTEIN: Uncharacterized protein CELE_C16A11.5  ;C16A11.5 description:LOW QUALITY PROTEIN: Uncharacterized protein CELE_C16A11.5  ;C16A11.5 description:LOW QUALITY PROTEIN: Uncharacterized protein CELE_C16A11.5  ;C16A11.5 description:LOW QUALITY PROTEIN: Uncharacterized protein CELE_C16A11.5  ;C16A11.5 description:LOW QUALITY PROTEIN: Uncharacterized protein CELE_C16A11.5  ;C16A11.5 description:LOW QUALITY PROTEIN: Uncharacterized protein CELE_C16A11.5  ;C16A11.5 description:LOW QUALITY PROTEIN: Uncharacterized protein CELE_C16A11.5  ;C16A11.5 description:LOW QUALITY PROTEIN: Uncharacterized protein CELE_C16A11.5  ;C16A11.5 description:LOW QUALITY PROTEIN: Uncharacterized protein CELE_C16A11.5  ;C16A11.5 description:LOW QUALITY PROTEIN: Uncharacterized protein CELE_C16A11.5  ;C16A11.5 description:LOW QUALITY PROTEIN: Uncharacterized protein CELE_C16A11.5  ;C16A11.5 description:LOW QUALITY PROTEIN: Uncharacterized protein CELE_C16A11.5  ;C16A11.5 description:LOW QUALITY PROTEIN: Uncharacterized protein CELE_C16A11.5
+OG0000059,TRUE,FALSE,FALSE,FALSE,0,y,IPR014044 CAP domain,N/A
+OG0000073,TRUE,FALSE,FALSE,FALSE,0,y,IPR001969 Aspartic peptidaseactive site,N/A
+OG0000252,TRUE,FALSE,FALSE,FALSE,0,y,IPR019421 7TM GPCRserpentine receptor class d (Srd),N/A
+OG0000100,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000195,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000224,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000023,TRUE,FALSE,FALSE,FALSE,0,y,IPR017853 Glycoside hydrolase superfamily; IPR013781 Glycoside hydrolase catalytic domain; IPR001223 Glycoside hydrolase family 18 catalytic domain; IPR029070 Chitinase insertion domain; IPR011583 Chitinase II,chil-7 description:CHItinase-Like  ;chil-12 description:CHItinase-Like  ;chil-13 description:CHItinase-Like  ;chil-15 description:CHItinase-Like  ;chil-16 description:CHItinase-Like  ;chil-17 description:CHItinase-Like  ;chil-18 description:CHItinase-Like  ;chil-19 description:CHItinase-Like  ;chil-20 description:CHItinase-Like  ;chil-21 description:CHItinase-Like  ;chil-21 description:CHItinase-Like  ;chil-22 description:CHItinase-Like  ;chil-23 description:CHItinase-Like  ;chil-25 description:CHItinase-Like  ;chil-25 description:CHItinase-Like  ;chil-26 description:CHItinase-Like  ;chil-27 description:CHItinase-Like  ;chil-11 description:CHItinase-Like  ;chil-24 description:CHItinase-Like
+OG0000186,TRUE,FALSE,FALSE,FALSE,0,y,IPR001584 Integrase catalytic core; IPR008042 Retrotransposon Pao; IPR012337 Ribonuclease H-like domain,N/A
+OG0000191,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000170,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000188,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000192,TRUE,FALSE,FALSE,FALSE,0,y,IPR001810 F-box domain; IPR002900 Domain of unknown function DUF38Caenorhabditis species,N/A
+OG0000264,TRUE,FALSE,FALSE,FALSE,0,y,IPR001214 SET domain,set-12 description:Histone-lysine N-methyltransferase
+OG0000411,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000677,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0001558,TRUE,FALSE,FALSE,FALSE,0,y,N/A,T19C9.10 description:ATP-dependent DNA helicase  ;T19C9.10 description:ATP-dependent DNA helicase 
+OG0000092,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000294,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000313,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000151,TRUE,FALSE,FALSE,FALSE,0,y,IPR005514 Chymotrypsin family Peptidase-S1,N/A
+OG0000223,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000326,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000370,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000420,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000525,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000658,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000079,TRUE,FALSE,FALSE,FALSE,0,y,IPR004000 Actin family; IPR004001 Actinconserved site; IPR020902 Actin/actin-like conserved site,act-1 description:Actin-1  ;act-1 description:Actin-1  ;act-1 description:Actin-1  ;act-1 description:Actin-1  ;act-2 description:Actin-2  ;act-2 description:Actin-2  ;act-2 description:Actin-2  ;act-3 description:Actin-3  ;act-3 description:Actin-3  ;act-3 description:Actin-3  ;act-4 description:Actin-4  ;act-4 description:Actin-4  ;act-4 description:Actin-4  ;act-4 description:Actin-4  ;act-4 description:Actin-4  ;act-4 description:Actin-4  ;act-4 description:Actin-4  ;act-4 description:Actin-4  ;act-5 description:ACTin  ;act-5 description:ACTin  ;act-5 description:ACTin
+OG0000090,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000228,TRUE,FALSE,FALSE,FALSE,0,y,IPR019420 7TM GPCRserpentine receptor class bc (Srbc),N/A
+OG0000260,TRUE,FALSE,FALSE,FALSE,0,y,IPR001357 BRCT domain; IPR002110 Ankyrin repeat; IPR003125 Domain of unknown function WSN; IPR020683 Ankyrin repeat-containing domain,N/A
+OG0000285,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000406,TRUE,FALSE,FALSE,FALSE,0,y,"IPR017452 GPCRrhodopsin-like7TM; IPR019421	7TM GPCRserpentine receptor class d (Srd)","srd-17 description:Serpentine Receptor, class D (Delta)  ;srd-18 description:Serpentine receptor class delta-18  ;srd-19 description:Serpentine receptor class delta-19  ;srd-20 description:Serpentine Receptor, class D (Delta)"
+OG0000509,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000702,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000855,TRUE,FALSE,FALSE,FALSE,0,y,IPR011598 Myc-typebasic helix-loop-helix (bHLH) domain,hlh-12 description:Helix Loop Helix
+OG0000937,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000985,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000998,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0001030,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0001110,TRUE,FALSE,FALSE,FALSE,0,y,IPR001304 C-type lectin; IPR016186 C-type lectin-like; IPR016187 C-type lectin fold; IPR018378 C-type lectinconserved site,N/A
+OG0001192,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0001299,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0001541,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0001657,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000052,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000072,TRUE,FALSE,FALSE,FALSE,0,y,IPR001810 F-box domain; IPR012885 F-box associated domaintype 2,N/A
+OG0000101,TRUE,FALSE,FALSE,FALSE,0,y,IPR001810 F-box domain; IPR012885 F-box associated domaintype 2,N/A
+OG0000102,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000135,TRUE,FALSE,FALSE,FALSE,0,y,IPR001699 Transcription factor T-box; IPR008967 p53-like transcription factor DNA-binding,tbx-30 description:Putative T-box protein 30/42  ;tbx-39 description:Putative T-box protein 39  ;tbx-40 description:Putative T-box protein 40  ;tbx-42 description:Putative T-box protein 30/42
+OG0000288,TRUE,FALSE,FALSE,FALSE,0,y,IPR000494 Receptor L-domain; IPR017452 GPCRrhodopsin-like7TM; IPR019427 7TM GPCRserpentine receptor class w (Srw); IPR032675 Leucine-rich repeat domainL domain-like,"srw-97 description:Serpentine Receptor, class W  ;srw-98 description:Serpentine Receptor, class W  ;srw-98 description:Serpentine Receptor, class W"
+OG0000293,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000328,TRUE,FALSE,FALSE,FALSE,0,y,IPR013854 Transcription factor AP-2 C-terminal,aptf-2 description:AP-2 Transcription Factor family  ;aptf-2 description:AP-2 Transcription Factor family
+OG0000388,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000390,TRUE,FALSE,FALSE,FALSE,0,y,"IPR017452 GPCRrhodopsin-like7TM; IPR019427	7TM GPCRserpentine receptor class w (Srw)","srw-91 description:Serpentine Receptor, class W"
+OG0000451,TRUE,FALSE,FALSE,FALSE,0,y,IPR012677 Nucleotide-binding alpha-beta plait domain; IPR025715 Chromatin target of PRMT1 proteinC-terminal,aly-1 description:Ref/ALY RNA export adaptor family
+OG0000489,TRUE,FALSE,FALSE,FALSE,0,y,IPR001841 Zinc finger RING-type; IPR013083 Zinc finger RING/FYVE/PHD-type; IPR017907 Zinc fingerRING-typeconserved site; IPR027370 RING-type zinc-fingerLisH dimerisation motif,N/A
+OG0000558,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000582,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000757,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000762,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0000813,TRUE,FALSE,FALSE,FALSE,0,y,N/A,icp-1 description:InCenP homolog; Incenp-like protein ICP-1  ;icp-1 description:InCenP homolog; Incenp-like protein ICP-1  ;icp-1 description:InCenP homolog; Incenp-like protein ICP-1
+OG0000826,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0001206,TRUE,FALSE,FALSE,FALSE,0,y,N/A,nep-11 description:Neprilysin-11  ;nep-11 description:Neprilysin-11
+OG0001838,TRUE,FALSE,FALSE,FALSE,0,y,N/A,"srx-85 description:Serpentine Receptor, class X"
+OG0001996,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
+OG0002472,TRUE,FALSE,FALSE,FALSE,0,y,N/A,N/A
