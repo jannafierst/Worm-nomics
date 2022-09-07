@@ -1,1 +1,1 @@
-
+Contains .fasta files with the longest transcript for each gene model in the proteome. This is important for OrthoFinder as isoforms will be identified as protein family members and distort estimates of family size.
