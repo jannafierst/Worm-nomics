@@ -1,5 +1,5 @@
 # Worm-nomics
-Workflow, scripts and analyses described in Millwood et al 2022
+Workflow, scripts and analyses described in Adams et al 2022
 
 ## PART 1: Wet lab protocols
 
