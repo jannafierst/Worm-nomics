@@ -1,0 +1,59 @@
+==================================================
+file name: ragtag.534.fasta.mod     
+sequences:            38
+total length:  120373354 bp  (120366982 bp excl N/X-runs)
+GC level:         38.53 %
+bases masked:   16121017 bp ( 13.39 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         4660      2837411 bp    2.36 %
+   SINEs:               24         1175 bp    0.00 %
+   Penelope            100        11550 bp    0.01 %
+   LINEs:              518       345066 bp    0.29 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex        203       164579 bp    0.14 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL         92        51102 bp    0.04 %
+     RTE/Bov-B          54        79612 bp    0.07 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      4118      2491170 bp    2.07 %
+     BEL/Pao           154        61793 bp    0.05 %
+     Ty1/Copia           0            0 bp    0.00 %
+     Gypsy/DIRS1      1613      1491296 bp    1.24 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      97224     11365197 bp    9.44 %
+   hobo-Activator     1089       111827 bp    0.09 %
+   Tc1-IS630-Pogo     4735       610630 bp    0.51 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            680        49918 bp    0.04 %
+   Tourist/Harbinger     5         1841 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles        559       122506 bp    0.10 %
+
+Unclassified:        12601      1629285 bp    1.35 %
+
+Total interspersed repeats:    15831893 bp   13.15 %
+
+
+Small RNA:               0            0 bp    0.00 %
+
+Satellites:            289        58224 bp    0.05 %
+Simple repeats:        799       104817 bp    0.09 %
+Low complexity:         24         3577 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , quick mode
+                                       
+run with rmblastn version 2.10.0+
+The query was compared to classified sequences in "ragtag.534.fasta.mod.EDTA.TElib.fa"
+FamDB: 

@@ -1,0 +1,59 @@
+==================================================
+file name: NIC58.fold.fa.mod        
+sequences:             7
+total length:   81320525 bp  (81318025 bp excl N/X-runs)
+GC level:         37.73 %
+bases masked:    7958391 bp ( 9.79 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         2020       727511 bp    0.89 %
+   SINEs:                1           60 bp    0.00 %
+   Penelope           1258       101333 bp    0.12 %
+   LINEs:             1379       172949 bp    0.21 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex         46        33005 bp    0.04 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL         42        30651 bp    0.04 %
+     RTE/Bov-B          10         1422 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:       640       554502 bp    0.68 %
+     BEL/Pao            57        27869 bp    0.03 %
+     Ty1/Copia           3         5338 bp    0.01 %
+     Gypsy/DIRS1       436       428202 bp    0.53 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      31271      4987029 bp    6.13 %
+   hobo-Activator      560        54030 bp    0.07 %
+   Tc1-IS630-Pogo     3714       457864 bp    0.56 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            683        71003 bp    0.09 %
+   Tourist/Harbinger     4         1008 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles        420       110333 bp    0.14 %
+
+Unclassified:        12050      1821327 bp    2.24 %
+
+Total interspersed repeats:     7535867 bp    9.27 %
+
+
+Small RNA:               0            0 bp    0.00 %
+
+Satellites:            191        42439 bp    0.05 %
+Simple repeats:        753       260538 bp    0.32 %
+Low complexity:         66         9214 bp    0.01 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , quick mode
+                                       
+run with rmblastn version 2.10.0+
+The query was compared to classified sequences in "NIC58.fold.fa.mod.EDTA.TElib.fa"
+FamDB: 

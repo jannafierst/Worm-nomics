@@ -1,0 +1,59 @@
+==================================================
+file name: caenorhabditis_nigoni.PRJNA384657.WBPS15.genomic.fa.mod
+sequences:           155
+total length:  129488540 bp  (129435387 bp excl N/X-runs)
+GC level:         37.75 %
+bases masked:   35662764 bp ( 27.54 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         4442      2244072 bp    1.73 %
+   SINEs:                2          124 bp    0.00 %
+   Penelope            709        67371 bp    0.05 %
+   LINEs:             1116       413125 bp    0.32 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex        222       128066 bp    0.10 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL         74       110972 bp    0.09 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      3324      1830823 bp    1.41 %
+     BEL/Pao           348       150188 bp    0.12 %
+     Ty1/Copia           0            0 bp    0.00 %
+     Gypsy/DIRS1      1401       994280 bp    0.77 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons     144003     25424414 bp   19.63 %
+   hobo-Activator     5490      1194397 bp    0.92 %
+   Tc1-IS630-Pogo    49668      9985177 bp    7.71 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac           2182       483396 bp    0.37 %
+   Tourist/Harbinger     4          899 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles      12950      2943929 bp    2.27 %
+
+Unclassified:        15831      2306507 bp    1.78 %
+
+Total interspersed repeats:    29974993 bp   23.15 %
+
+
+Small RNA:               0            0 bp    0.00 %
+
+Satellites:           7494      2613437 bp    2.02 %
+Simple repeats:        583       123706 bp    0.10 %
+Low complexity:         51         6699 bp    0.01 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , quick mode
+                                       
+run with rmblastn version 2.10.0+
+The query was compared to classified sequences in "caenorhabditis_nigoni.PRJNA384657.WBPS15.genomic.fa.mod.EDTA.TElib.fa"
+FamDB: 

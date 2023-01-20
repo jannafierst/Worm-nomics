@@ -1,0 +1,59 @@
+==================================================
+file name: caeno_sini_short.fa.mod  
+sequences:         15261
+total length:  131797386 bp  (130527341 bp excl N/X-runs)
+GC level:         39.48 %
+bases masked:   13720641 bp ( 10.41 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         1013       529951 bp    0.40 %
+   SINEs:                3          168 bp    0.00 %
+   Penelope             10          799 bp    0.00 %
+   LINEs:              149        74661 bp    0.06 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex         25        11541 bp    0.01 %
+     R1/LOA/Jockey       1           55 bp    0.00 %
+     R2/R4/NeSL         47        24397 bp    0.02 %
+     RTE/Bov-B           1           46 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:       861       455122 bp    0.35 %
+     BEL/Pao           268       114033 bp    0.09 %
+     Ty1/Copia          25         2057 bp    0.00 %
+     Gypsy/DIRS1       111        58977 bp    0.04 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      73653      9173891 bp    6.96 %
+   hobo-Activator      724        65015 bp    0.05 %
+   Tc1-IS630-Pogo     4057       554896 bp    0.42 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            631        78500 bp    0.06 %
+   Tourist/Harbinger     7         2570 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       1704       182750 bp    0.14 %
+
+Unclassified:        23784      3578749 bp    2.72 %
+
+Total interspersed repeats:    13282591 bp   10.08 %
+
+
+Small RNA:               0            0 bp    0.00 %
+
+Satellites:           1315       180780 bp    0.14 %
+Simple repeats:        396        72790 bp    0.06 %
+Low complexity:         11         1730 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , quick mode
+                                       
+run with rmblastn version 2.10.0+
+The query was compared to classified sequences in "caeno_sini_short.fa.mod.EDTA.TElib.fa"
+FamDB: 

@@ -1,0 +1,59 @@
+==================================================
+file name: elegans.fasta.mod        
+sequences:             7
+total length:  100286401 bp  (100286401 bp excl N/X-runs)
+GC level:         35.44 %
+bases masked:   14902021 bp ( 14.86 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         1620       970738 bp    0.97 %
+   SINEs:              487        84833 bp    0.08 %
+   Penelope             55         4967 bp    0.00 %
+   LINEs:              599       394491 bp    0.39 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex        402       256047 bp    0.26 %
+     R1/LOA/Jockey      28        17578 bp    0.02 %
+     R2/R4/NeSL         95        36796 bp    0.04 %
+     RTE/Bov-B          80        89694 bp    0.09 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:       534       491414 bp    0.49 %
+     BEL/Pao           183       297201 bp    0.30 %
+     Ty1/Copia           0            0 bp    0.00 %
+     Gypsy/DIRS1       180       113065 bp    0.11 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      54167      9956063 bp    9.93 %
+   hobo-Activator     3565       504466 bp    0.50 %
+   Tc1-IS630-Pogo     6833      1644341 bp    1.64 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac           3440       678009 bp    0.68 %
+   Tourist/Harbinger    11        17727 bp    0.02 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       3433      1238923 bp    1.24 %
+
+Unclassified:        12732      1614963 bp    1.61 %
+
+Total interspersed repeats:    12541764 bp   12.51 %
+
+
+Small RNA:               0            0 bp    0.00 %
+
+Satellites:           3549       779980 bp    0.78 %
+Simple repeats:       1956       338753 bp    0.34 %
+Low complexity:         12         2601 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , quick mode
+                                       
+run with rmblastn version 2.10.0+
+The query was compared to classified sequences in "elegans.fasta.mod.EDTA.TElib.fa"
+FamDB: 

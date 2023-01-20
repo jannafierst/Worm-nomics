@@ -1,0 +1,59 @@
+==================================================
+file name: JU1373.short.fa.mod      
+sequences:            44
+total length:   80984729 bp  (80982929 bp excl N/X-runs)
+GC level:         37.80 %
+bases masked:    7855340 bp ( 9.70 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         2034       806005 bp    1.00 %
+   SINEs:                1           21 bp    0.00 %
+   Penelope           1192        96609 bp    0.12 %
+   LINEs:             1292       151826 bp    0.19 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex         43        29237 bp    0.04 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL         34        22363 bp    0.03 %
+     RTE/Bov-B          10         1081 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:       741       654158 bp    0.81 %
+     BEL/Pao            76        44809 bp    0.06 %
+     Ty1/Copia           3         4967 bp    0.01 %
+     Gypsy/DIRS1       484       479689 bp    0.59 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      31613      5108626 bp    6.31 %
+   hobo-Activator      615        54080 bp    0.07 %
+   Tc1-IS630-Pogo     4325       507056 bp    0.63 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            351        28484 bp    0.04 %
+   Tourist/Harbinger     5         1008 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles        384        80191 bp    0.10 %
+
+Unclassified:        10215      1520772 bp    1.88 %
+
+Total interspersed repeats:     7435403 bp    9.18 %
+
+
+Small RNA:               0            0 bp    0.00 %
+
+Satellites:            217        44999 bp    0.06 %
+Simple repeats:        732       287300 bp    0.35 %
+Low complexity:         50         7447 bp    0.01 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , quick mode
+                                       
+run with rmblastn version 2.10.0+
+The query was compared to classified sequences in "JU1373.short.fa.mod.EDTA.TElib.fa"
+FamDB: 

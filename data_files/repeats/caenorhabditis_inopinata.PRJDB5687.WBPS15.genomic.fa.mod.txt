@@ -1,0 +1,59 @@
+==================================================
+file name: caenorhabditis_inopinata.PRJDB5687.WBPS15.genomic.fa.mod
+sequences:             6
+total length:  122994328 bp  (122580819 bp excl N/X-runs)
+GC level:         38.47 %
+bases masked:   33327741 bp ( 27.10 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        21589      5968912 bp    4.85 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope            272        24568 bp    0.02 %
+   LINEs:             2258      1009141 bp    0.82 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex        200        57504 bp    0.05 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL         12          696 bp    0.00 %
+     RTE/Bov-B        1389       816175 bp    0.66 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:     19331      4959771 bp    4.03 %
+     BEL/Pao           257       131300 bp    0.11 %
+     Ty1/Copia           0            0 bp    0.00 %
+     Gypsy/DIRS1      5834      2899163 bp    2.36 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons     179908     21832897 bp   17.75 %
+   hobo-Activator    14399      1335201 bp    1.09 %
+   Tc1-IS630-Pogo    14268      4787629 bp    3.89 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            151        10771 bp    0.01 %
+   Tourist/Harbinger    24         7289 bp    0.01 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles        758       140206 bp    0.11 %
+
+Unclassified:        55034      5024577 bp    4.09 %
+
+Total interspersed repeats:    32826386 bp   26.69 %
+
+
+Small RNA:               0            0 bp    0.00 %
+
+Satellites:            363        59830 bp    0.05 %
+Simple repeats:       2116       265770 bp    0.22 %
+Low complexity:        150        29484 bp    0.02 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , quick mode
+                                       
+run with rmblastn version 2.10.0+
+The query was compared to classified sequences in "caenorhabditis_inopinata.PRJDB5687.WBPS15.genomic.fa.mod.EDTA.TElib.fa"
+FamDB: 

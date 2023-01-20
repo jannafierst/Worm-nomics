@@ -1,0 +1,59 @@
+==================================================
+file name: briggsae.fa.mod          
+sequences:            12
+total length:  108419665 bp  (105424746 bp excl N/X-runs)
+GC level:         37.35 %
+bases masked:   23618743 bp ( 21.78 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         1532       732728 bp    0.68 %
+   SINEs:                1           23 bp    0.00 %
+   Penelope            408        35876 bp    0.03 %
+   LINEs:             1070       388198 bp    0.36 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex        610       342362 bp    0.32 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL         19         4620 bp    0.00 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:       461       344507 bp    0.32 %
+     BEL/Pao           116        26458 bp    0.02 %
+     Ty1/Copia           0            0 bp    0.00 %
+     Gypsy/DIRS1       331       302027 bp    0.28 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      95388     17757370 bp   16.38 %
+   hobo-Activator     3997       899254 bp    0.83 %
+   Tc1-IS630-Pogo    43472      8470422 bp    7.81 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac           2653       652543 bp    0.60 %
+   Tourist/Harbinger     9         1326 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       9507      2087219 bp    1.93 %
+
+Unclassified:         6621      1005384 bp    0.93 %
+
+Total interspersed repeats:    19495482 bp   17.98 %
+
+
+Small RNA:               0            0 bp    0.00 %
+
+Satellites:           6386      1980875 bp    1.83 %
+Simple repeats:        361        50933 bp    0.05 %
+Low complexity:         28         4234 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , quick mode
+                                       
+run with rmblastn version 2.10.0+
+The query was compared to classified sequences in "briggsae.fa.mod.EDTA.TElib.fa"
+FamDB: 
